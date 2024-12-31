@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "libry",
+    "slug": "libry",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
